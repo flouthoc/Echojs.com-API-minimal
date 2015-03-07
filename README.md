@@ -57,3 +57,5 @@ get_latest(count) gives you the latest news running on <b>http://Echojs.com</b>
   .
   .
 ```
+#Sample JSON Dump File
+[dump file](https://raw.githubusercontent.com/argunner/Echojs.com-API-minimal/master/sample_json_dump.txt)
