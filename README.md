@@ -11,6 +11,11 @@ A minimal <b>API like</b> Python Wrapper for http://Echojs.com which outputs New
   feed.get_topnews()
   ```
   
+#####Sample JSON Dump File
+[dump file](https://raw.githubusercontent.com/argunner/Echojs.com-API-minimal/master/sample_json_dump.txt)
+
+
+  
 ##Functions
 
 #get_topnews()
@@ -57,8 +62,6 @@ get_latest(count) gives you the latest news running on <b>http://Echojs.com</b>
   .
   .
 ```
-#Sample JSON Dump File
-[dump file](https://raw.githubusercontent.com/argunner/Echojs.com-API-minimal/master/sample_json_dump.txt)
 
 
 ####Fork it !
