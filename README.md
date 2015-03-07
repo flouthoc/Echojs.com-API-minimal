@@ -2,6 +2,7 @@
 A minimal <b>API like</b> Python Wrapper for http://Echojs.com which outputs News Streams in the form of <b>JSON Object</b>
 
 ##How To Use it?
+You can always start like [sample.py](https://raw.githubusercontent.com/argunner/Echojs.com-API-minimal/master/sample.py)
 ```py
 
   #Example Using EchoJS-API-minimal
